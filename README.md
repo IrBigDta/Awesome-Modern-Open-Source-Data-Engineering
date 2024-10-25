@@ -134,6 +134,13 @@ Description: Databases designed for processing and analyzing real-time data stre
 | EventStoreDB | An event-native database designed for event sourcing and event-driven architectures |
 | KsqlDB | A database for building stream processing applications on top of Apache Kafka |
 
+## Streaming Processing Tools/Frameworks
+Tools designed for processing and analyzing real-time data streams.
+
+| Project | Description |
+|---------|-------------|
+| [QUIX](https://quix.io/) | Quix is a complete platform for developing, deploying, and monitoring stream processing pipelines. You can build producer/consumer/transform apps with Quix Streams and Python |
+
 ## Time-Series Database
 Description: Databases optimized for storing and querying time-series data.
 
