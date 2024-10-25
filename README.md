@@ -193,8 +193,6 @@ Description: Systems for storing and managing distributed object storage.
 | Ceph | A distributed object, block, and file storage platform |
 | Minio | A high performance object storage API compatible with Amazon S3 |
 
-# DATA LAKE PLATFORM (continued)
-
 ## Serialisation Framework
 Description: Frameworks for efficient data serialization and storage formats.
 
@@ -205,7 +203,7 @@ Description: Frameworks for efficient data serialization and storage formats.
 | Apache ORC | A self-describing type-aware columnar file format for Hadoop |
 | [Lance By LanceDB](https://lancedb.github.io/lance/) | use cases’ are more targeted towards ML (multi modal). Claims 100x faster than Parquet. (check out [this blog post](https://blog.lancedb.com/lance-v2/)) |
 | [Nimble](https://github.com/facebookincubator/nimble) | Nimble by Meta is a new columnar file format for large datasets. It is meant to be a replacement for file formats such as Parquet, ORC. Suited for ML use cases (feature store). |
-| [Vortex](https://github.com/spiraldb/vortex) |  Vortex is another one that claims to provide faster random access reads (100-200x faster) and scans (2-10x faster), while preserving approximately the same compression ratio and write throughput as Parquet with ZSTD. (Vortex’s default compression strategy is based on the BtrBlocks paper |
+| [Vortex](https://github.com/spiraldb/vortex) |  [Vortex](https://www.linkedin.com/posts/dipankar-mazumdar_parquet-bigdata-dataengineering-activity-7253095572268613632-Wk2r/) is another one that claims to provide faster random access reads (100-200x faster) and scans (2-10x faster), while preserving approximately the same compression ratio and write throughput as Parquet with ZSTD. (Vortex’s default compression strategy is based on the BtrBlocks paper) |
 
 ## Open Table Format
 Description: Open-source table formats for data lake storage.
