@@ -1,4 +1,4 @@
-# Awesome Data Tools 📊🚀
+# Awesome Modern Data Tools 📊🚀
 Welcome to Awesome Data Tools! This curated list brings together powerful open-source tools, frameworks, and resources for data engineering and data science. It started with inspiration from [pracdata's awesome-open-source-data-engineering](https://github.com/pracdata/awesome-open-source-data-engineering?tab=readme-ov-file) list and has grown into a resource to organize and explore the ever-evolving landscape of data technology.
 
 Whether you're working with data pipelines, warehousing, processing, or analytics, this list is updated with tools encountered daily, selected for their utility, innovation, and relevance. Feel free to fork, star, and contribute by submitting PRs with any useful tools you’d like to see added!
