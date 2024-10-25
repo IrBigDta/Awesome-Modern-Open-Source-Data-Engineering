@@ -365,3 +365,176 @@ Description: Tools for managing and scheduling compute resources.
 | Kubernetes | A production-grade container scheduling tool |
 | Docker | The popular OS-level virtualization software |
 
+# DATA INFRASTRUCTURE (continued)
+
+## Cluster Administration
+Description: Tools for managing and monitoring distributed clusters.
+
+| Project | Description |
+|---------|-------------|
+| Apache Ambari | A tool for provisioning and managing Hadoop clusters |
+| Apache Helix | A generic cluster management framework by LinkedIn |
+
+## Security
+Description: Tools for managing security and access control.
+
+| Project | Description |
+|---------|-------------|
+| Apache Knox | A gateway and SSO service for Hadoop clusters |
+| Apache Ranger | A security and governance platform for Hadoop |
+| Kerberos | A popular enterprise network authentication protocol |
+
+## Metrics Store
+Description: Systems for storing and managing metrics data.
+
+| Project | Description |
+|---------|-------------|
+| Influxdb | A scalable datastore for metrics and events |
+| Mimir | A scalable long-term metrics storage for Prometheus |
+| OpenTSDB | A distributed Time Series Database on Apache Hbase |
+| M3 | A distributed TSDB and metrics storage aggregator |
+
+## Observability Framework
+Description: Frameworks for monitoring and observing system behavior.
+
+| Project | Description |
+|---------|-------------|
+| Prometheus | A popular metric collection and management tool |
+| ELK | A observability stack with Elasticsearch, Kibana, Beats, Logstash |
+| Graphite | An established infrastructure monitoring system |
+| OpenTelemetry | APIs, SDKs, and tools for managing and monitoring metrics |
+| VictoriaMetrics | A scalable monitoring solution with time series database |
+| Zabbix | A real-time infrastructure and application monitoring service |
+
+## Monitoring Dashboard
+Description: Tools for visualizing monitoring data.
+
+| Project | Description |
+|---------|-------------|
+| Grafana | A popular observability and data visualization platform |
+| Kibana | The visualization dashboard for Elasticsearch |
+| RConsole | A UI for monitoring Apache Kafka and Redpanda workloads |
+
+## Log & Metrics Pipeline
+Description: Tools for collecting and processing logs and metrics.
+
+| Project | Description |
+|---------|-------------|
+| Fluentd | A metric collection, buffering and router service |
+| Fluent Bit | A fast log processor from the Fluentd ecosystem |
+| Logstash | A server-side log processor, part of the ELK stack |
+| Telegraf | A plugin-driven server agent for collecting metrics |
+| Vector | A high-performance observability data pipeline |
+| StatsD | A network daemon for metrics collection and routing |
+
+# METADATA MANAGEMENT
+
+## Metadata Platform
+Description: Platforms for managing and organizing metadata across data systems.
+
+| Project | Description |
+|---------|-------------|
+| Amundsen | A data discovery and metadata engine by Lyft |
+| Apache Atlas | A data observability platform for Hadoop ecosystem |
+| DataHub | A metadata platform for modern data stack by Netflix |
+| Marquez | A metadata service for collection and visualization |
+| ckan | A data management system for cataloging data |
+| Open Metadata | A unified platform for discovery and governance |
+
+## Open Standards
+Description: Standards and frameworks for metadata management.
+
+| Project | Description |
+|---------|-------------|
+| Open Lineage | An open standard for lineage metadata collection |
+| Open Metadata | A unified metadata platform providing open standards |
+| Egeria | Open metadata and governance standards |
+
+## Schema Service
+Description: Services for managing schema definitions.
+
+| Project | Description |
+|---------|-------------|
+| Hive Metastore | A schema management service from Apache Hive |
+| Confluent Schema Registry | A schema registry for Kafka by Confluent |
+
+# ANALYTICS & VISUALISATION
+
+## BI & Dashboard
+Description: Tools for business intelligence and data visualization.
+
+| Project | Description |
+|---------|-------------|
+| Apache Superset | A popular data visualization and exploration platform |
+| Metabase | A simple data visualization and exploration dashboard |
+| Redash | A tool to explore, query, and visualize data |
+| Streamlit | A python tool to package data as web apps |
+
+## Query & Collaboration
+Description: Tools for querying data and collaborative analysis.
+
+| Project | Description |
+|---------|-------------|
+| Hue | A query tool with Hadoop support, by Cloudera |
+| Apache Zeppelin | A web-based Notebook for interactive analytics |
+| Querybook | A simple query and notebook UI by Pinterest |
+| Jupyter | A popular interactive web-based notebook application |
+
+## MPP Query Engine
+Description: Massively Parallel Processing engines for distributed querying.
+
+| Project | Description |
+|---------|-------------|
+| Apache Hive | A data warehousing and MPP engine on Hadoop |
+| Apache Implala | A MPP engine for Hadoop clusters by Cloudera |
+| Presto | A distributed SQL query engine for big data |
+| Trino | The former PrestoSQL distributed SQL query engine |
+| Apache Drill | A distributed MPP query engine for NoSQL and Hadoop |
+
+# ANALYTICS & VISUALISATION (continued)
+
+## Semantic Layer
+Description: Tools for creating and managing semantic data models.
+
+| Project | Description |
+|---------|-------------|
+| Alluxio | A data orchestration and virtual distributed storage system |
+| Cube | A semantic layer for building data applications |
+| Apache Linkis | A computation middleware for applications and data engines |
+
+# ML/AI PLATFORM
+
+## Vector Storage
+Description: Databases optimized for storing and querying vector embeddings.
+
+| Project | Description |
+|---------|-------------|
+| milvus | A cloud-native vector database for AI applications |
+| qdrant | A high-performance, scalable Vector database for AI |
+| chroma | An AI-native embedding database for LLM apps |
+| marqo | An end-to-end vector search engine for text and images |
+| LanceDB | A serverless vector database written in Rust |
+| weaviate | A scalable database supporting objects and vectors |
+| deeplake | A storage format optimized for deep-learning applications |
+| Vespa | A storage for vectors, tensors, text and structured data |
+| vald | A scalable distributed vector search engine |
+| pgvector | A vector similarity search Postgres extension |
+
+## MLOps
+Description: Tools and platforms for managing machine learning operations.
+
+| Project | Description |
+|---------|-------------|
+| mlflow | A platform for ML development and lifecycle management |
+| Metaflow | A tool for ML/AI and data science projects by Netflix |
+| SkyPilot | A framework for running LLMs and AI on any cloud |
+| Jina | A tool to build multimodal AI with cloud-native stack |
+| NNI | An autoML toolkit from Microsoft |
+| BentoML | A framework for building reliable AI applications |
+| Determined AI | An ML platform for distributed training and tuning |
+| RAY | A unified framework for scaling AI and Python applications |
+| kubeflow | A cloud-native platform for ML operations |
+
+
+
+
