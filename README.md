@@ -373,8 +373,6 @@ Description: Tools for managing and scheduling compute resources.
 | Kubernetes | A production-grade container scheduling tool |
 | Docker | The popular OS-level virtualization software |
 
-# DATA INFRASTRUCTURE (continued)
-
 ## Cluster Administration
 Description: Tools for managing and monitoring distributed clusters.
 
@@ -498,8 +496,6 @@ Description: Massively Parallel Processing engines for distributed querying.
 | Presto | A distributed SQL query engine for big data |
 | Trino | The former PrestoSQL distributed SQL query engine |
 | Apache Drill | A distributed MPP query engine for NoSQL and Hadoop |
-
-# ANALYTICS & VISUALISATION (continued)
 
 ## Semantic Layer
 Description: Tools for creating and managing semantic data models.
