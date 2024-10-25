@@ -200,9 +200,12 @@ Description: Frameworks for efficient data serialization and storage formats.
 
 | Project | Description |
 |---------|-------------|
-| Apache Parquet | An efficient columnar binary storage format that supports nested data |
+| [Apache Parquet](https://parquet.apache.org/) | An efficient columnar binary storage format that supports nested data |
 | Apache Avro | An efficient and fast row-based binary serialisation framework |
 | Apache ORC | A self-describing type-aware columnar file format for Hadoop |
+| [Lance By LanceDB](https://lancedb.github.io/lance/) | use cases’ are more targeted towards ML (multi modal). Claims 100x faster than Parquet. (check out [this blog post](https://blog.lancedb.com/lance-v2/)) |
+| [Nimble](https://github.com/facebookincubator/nimble) | Nimble by Meta is a new columnar file format for large datasets. It is meant to be a replacement for file formats such as Parquet, ORC. Suited for ML use cases (feature store). |
+| [Vortex](https://github.com/spiraldb/vortex) |  Vortex is another one that claims to provide faster random access reads (100-200x faster) and scans (2-10x faster), while preserving approximately the same compression ratio and write throughput as Parquet with ZSTD. (Vortex’s default compression strategy is based on the BtrBlocks paper |
 
 ## Open Table Format
 Description: Open-source table formats for data lake storage.
